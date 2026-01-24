@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>AI Hackathon Idea Evaluator</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+
+
+
+<nav class="navbar">
+  <!-- <div class="nav-brand">Brew</div> -->
+  <a href="index.html" class="nav-brand">Brew</a>
+  <ul class="nav-links">
+    <li><a href="index.html">Brew</a></li>
+    <!-- <li><a href="#">Features</a></li> -->
+    <li><a href="#">About</a></li>
+    <li><a href="contact.html">Contact</a></li>
+  </ul>
+</nav>
+  <div id="overlay" class="overlay hidden"></div>
+
+<div class="container">
+  <h1>AI Hackathon Idea Evaluator</h1>
+  <p class="subtitle">Evaluate your hackathon idea with AI-powered insights</p>
+
+  <form id="ideaForm">
+    <label>Domain: </label>
+    <input id="Domain" required>
+
+    <label>Problem Statement: </label>
+    <textarea id="PS" required></textarea>
+
+    <label>Proposed Solution: </label>
+    <textarea id="Solution" required></textarea>
+
+    <label>Target Users: </label>
+    <input id="TargetUsers" required>
+
+    <label>Guidelines: </label>
+    <textarea id="Guidelines"></textarea>
+
+    <button type="submit">Analyze Idea</button>
+  </form>
+
+  <div id="loader" class="loader hidden"></div>
+
+  <div id="results" class="hidden">
+    <h2>Evaluation Results</h2>
+
+    <div class="scores">
+      <div class="card"><span>Innovation</span><strong id="Innovation"></strong></div>
+      <div class="card"><span>Feasibility</span><strong id="Feasibility"></strong></div>
+      <div class="card"><span>Problem Relevance</span><strong id="ProblemRelevance"></strong></div>
+      <div class="card"><span>Impact</span><strong id="Impact"></strong></div>
+      <div class="card highlight"><span>Overall Score</span><strong id="OverallScore"></strong></div>
+    </div>
+
+    <div class="text-block">
+      <p><b>Strengths:</b> <span id="Strengths"></span></p>
+      <p><b>Weaknesses:</b> <span id="Weaknesses"></span></p>
+      <p><b>Risk Factors:</b> <span id="RiskFactors"></span></p>
+      <p><b>Suggestions:</b> <span id="Suggestions"></span></p>
+    </div>
+  </div>
+</div>
+<p class="project-by">
+  Made with &hearts; by <b>camelCase</b> 
+</p>
+
+<script src="script.js"></script>
+</body>
+
+</html>
