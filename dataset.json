@@ -1,0 +1,160 @@
+[
+  {
+    "instruction": "Evaluate the following hackathon idea and return scores and analysis.",
+    "input": "Domain: Financial Literacy\nProblem Statement: Poor financial awareness among college students\nSolution: A gamified mobile app teaching budgeting via simulations\nTarget Users: College students (18–25)\nGuidelines: Scalable, ethical, low-cost, inclusive",
+    "output": {
+      "Innovation": 78,
+      "Feasibility": 82,
+      "ProblemRelevance": 90,
+      "Impact": 85,
+      "OverallScore": 84,
+      "Strengths": "Gamification increases engagement and learning retention",
+      "Weaknesses": "Long-term engagement may drop",
+      "RiskFactors": "User fatigue after novelty wears off",
+      "Suggestions": "Add peer competitions and real-world rewards"
+    }
+  },
+  {
+    "instruction": "Evaluate the following hackathon idea and return scores and analysis.",
+    "input": "Domain: Financial Literacy\nProblem Statement: Lack of savings habit among young adults\nSolution: AI-based savings recommendation app\nTarget Users: Working professionals (21–30)\nGuidelines: Ethical, secure, scalable",
+    "output": {
+      "Innovation": 80,
+      "Feasibility": 85,
+      "ProblemRelevance": 88,
+      "Impact": 86,
+      "OverallScore": 85,
+      "Strengths": "Personalized recommendations increase adoption",
+      "Weaknesses": "Requires accurate financial data input",
+      "RiskFactors": "Privacy and data security concerns",
+      "Suggestions": "Use strong encryption and transparent data policies"
+    }
+  },
+  {
+    "instruction": "Evaluate the following hackathon idea and return scores and analysis.",
+    "input": "Domain: Financial Literacy\nProblem Statement: Students misuse credit cards due to lack of awareness\nSolution: Interactive credit score simulator\nTarget Users: College students\nGuidelines: Inclusive, educational",
+    "output": {
+      "Innovation": 75,
+      "Feasibility": 80,
+      "ProblemRelevance": 92,
+      "Impact": 83,
+      "OverallScore": 83,
+      "Strengths": "Simulations show real-world consequences",
+      "Weaknesses": "Limited appeal to non-credit users",
+      "RiskFactors": "Oversimplification of financial systems",
+      "Suggestions": "Include real case studies and expert content"
+    }
+  },
+
+  {
+    "instruction": "Evaluate the following hackathon idea and return scores and analysis.",
+    "input": "Domain: Financial Literacy\nProblem Statement: Poor tax awareness among first-time earners\nSolution: Tax filing chatbot\nTarget Users: First job holders\nGuidelines: Low-cost, ethical",
+    "output": {
+      "Innovation": 82,
+      "Feasibility": 78,
+      "ProblemRelevance": 87,
+      "Impact": 84,
+      "OverallScore": 83,
+      "Strengths": "Simplifies complex tax concepts",
+      "Weaknesses": "May not handle edge tax cases",
+      "RiskFactors": "Incorrect guidance risk",
+      "Suggestions": "Add disclaimer and human expert review"
+    }
+  },
+
+  {
+    "instruction": "Evaluate the following hackathon idea and return scores and analysis.",
+    "input": "Domain: Financial Literacy\nProblem Statement: Lack of investment knowledge among youth\nSolution: Virtual stock market game\nTarget Users: College students\nGuidelines: Ethical, scalable",
+    "output": {
+      "Innovation": 85,
+      "Feasibility": 83,
+      "ProblemRelevance": 89,
+      "Impact": 87,
+      "OverallScore": 86,
+      "Strengths": "Hands-on learning without financial risk",
+      "Weaknesses": "Game outcomes may feel unrealistic",
+      "RiskFactors": "Encouraging speculative behavior",
+      "Suggestions": "Include risk education modules"
+    }
+  },
+
+  {
+    "instruction": "Evaluate the following hackathon idea and return scores and analysis.",
+    "input": "Domain: Financial Literacy\nProblem Statement: Poor expense tracking habits\nSolution: Voice-based expense logging app\nTarget Users: Students and professionals\nGuidelines: Inclusive, low-cost",
+    "output": {
+      "Innovation": 81,
+      "Feasibility": 84,
+      "ProblemRelevance": 86,
+      "Impact": 82,
+      "OverallScore": 83,
+      "Strengths": "Low friction data entry",
+      "Weaknesses": "Voice recognition errors",
+      "RiskFactors": "Low accuracy in noisy environments",
+      "Suggestions": "Add manual correction options"
+    }
+  },
+
+  {
+    "instruction": "Evaluate the following hackathon idea and return scores and analysis.",
+    "input": "Domain: Financial Literacy\nProblem Statement: Financial stress due to poor planning\nSolution: Monthly budget planner with nudges\nTarget Users: College students\nGuidelines: Ethical, scalable",
+    "output": {
+      "Innovation": 76,
+      "Feasibility": 88,
+      "ProblemRelevance": 91,
+      "Impact": 84,
+      "OverallScore": 85,
+      "Strengths": "Behavioral nudges improve consistency",
+      "Weaknesses": "Limited differentiation from existing apps",
+      "RiskFactors": "Notification fatigue",
+      "Suggestions": "Allow customizable reminder frequency"
+    }
+  },
+
+  {
+    "instruction": "Evaluate the following hackathon idea and return scores and analysis.",
+    "input": "Domain: Financial Literacy\nProblem Statement: Families avoid financial discussions\nSolution: Family finance discussion toolkit\nTarget Users: Middle-income families\nGuidelines: Inclusive, ethical",
+    "output": {
+      "Innovation": 79,
+      "Feasibility": 81,
+      "ProblemRelevance": 88,
+      "Impact": 86,
+      "OverallScore": 84,
+      "Strengths": "Encourages intergenerational learning",
+      "Weaknesses": "Adoption depends on family willingness",
+      "RiskFactors": "Cultural resistance",
+      "Suggestions": "Localize content culturally"
+    }
+  },
+
+  {
+    "instruction": "Evaluate the following hackathon idea and return scores and analysis.",
+    "input": "Domain: Financial Literacy\nProblem Statement: Poor understanding of loans and EMIs\nSolution: EMI visualization calculator\nTarget Users: Young adults\nGuidelines: Simple, low-cost",
+    "output": {
+      "Innovation": 74,
+      "Feasibility": 90,
+      "ProblemRelevance": 89,
+      "Impact": 83,
+      "OverallScore": 84,
+      "Strengths": "Clear visualization aids decision-making",
+      "Weaknesses": "Limited educational depth",
+      "RiskFactors": "Users may skip learning context",
+      "Suggestions": "Add micro-lessons alongside calculator"
+    }
+  },
+
+  {
+    "instruction": "Evaluate the following hackathon idea and return scores and analysis.",
+    "input": "Domain: Financial Literacy\nProblem Statement: Students fall into subscription traps\nSolution: Subscription expense analyzer\nTarget Users: College students\nGuidelines: Ethical, scalable",
+    "output": {
+      "Innovation": 83,
+      "Feasibility": 86,
+      "ProblemRelevance": 90,
+      "Impact": 85,
+      "OverallScore": 86,
+      "Strengths": "Highlights hidden recurring expenses",
+      "Weaknesses": "Requires bank integration",
+      "RiskFactors": "Data access limitations",
+      "Suggestions": "Allow manual input alternatives"
+    }
+  }
+
+]
