@@ -80,8 +80,8 @@ Brew focuses on:
   - Community: impact, ethics, accessibility  
 
 **User Interaction**
-- Teams respond to questions via text input  
-- Responses are analyzed in real time  
+-<img width="2534" height="1329" alt="Screenshot 2026-01-25 072957" src="https://github.com/user-attachments/assets/743ff8c1-432a-4550-9fd6-94f72a1787ca" />
+<img width="2536" height="1298" alt="Screenshot 2026-01-25 073033" src="https://github.com/user-attachments/assets/93bc15a8-fc95-4737-9dd7-5289a199a894" />
 
 ---
 
