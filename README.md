@@ -100,5 +100,5 @@ Brew generates a **structured final report** containing:
 ---
 
 ## System Architecture
+<img width="2888" height="1020" alt="image (16)" src="https://github.com/user-attachments/assets/81f3851a-547e-4806-b5c4-d463208d6a80" />
 
-![alt text](media/image1.png)
